@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-social-login](modules/social-login)
 - [privacy-policy]()
 - [screen-forgot-password](screens/forgot-password)
+- [screen-profile](screens/profile)
 
 # Getting started: Frontend
 
