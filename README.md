@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [screen-settings](screens/settings)
 - [screen-invite-friends](screens/invite-friends)
+- [screen-support-send-feedback](screens/support-send-feedback)
 
 # Getting started: Frontend
 

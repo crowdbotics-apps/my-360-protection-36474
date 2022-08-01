@@ -25,6 +25,7 @@
     "@screens/invite-friends": "file:./screens/invite-friends/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/settings": "file:./screens/settings/",
+    "@screens/support-send-feedback": "file:./screens/support-send-feedback/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
