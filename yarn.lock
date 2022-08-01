@@ -1256,10 +1256,13 @@
 "@screens/forgot-password@file:./screens/forgot-password":
   version "1.0.0"
 
+"@screens/invite-friends@file:./screens/invite-friends/":
+  version "1.0.0"
+
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
-"@screens/settings@file:./screens/settings/":
+"@screens/settings@file:./screens/settings":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
