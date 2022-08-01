@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-onboarding](modules/onboarding)
 - [terms-and-conditions]()
 - [django-social-auth](backend/modules/social-auth)
+- [react-native-social-login](modules/social-login)
 
 # Getting started: Frontend
 
