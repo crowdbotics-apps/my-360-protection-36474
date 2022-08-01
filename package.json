@@ -23,6 +23,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
+    "@screens/payment-subscription": "file:./screens/payment-subscription/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/settings": "file:./screens/settings/",
     "@screens/support-send-feedback": "file:./screens/support-send-feedback/",
